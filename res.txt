@@ -1,0 +1,3 @@
+accuracy of bad 97.64
+
+accuracy of good 95.12
